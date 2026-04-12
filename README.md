@@ -25,5 +25,5 @@
 
 ## Contact Me
 
-📬 You can reache me at **[hi@bitcoin.rocks](mailto@hi@bitcoin.rocks)**
+📬 You can reache me at **[hi@bitcoin.rocks](mailto:hi@bitcoin.rocks)**
 
