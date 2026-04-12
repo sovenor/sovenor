@@ -8,9 +8,7 @@
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 
- I'm a developer focused on accelerating Bitcoin adoption. I build tools and resources that help people understand, use, and advocate for Bitcoin.
-
- Constantly refining my AI workflow to bring my ideas to reality. What used to take me 2 weeks alone now takes me and my agents 1 day.
+ I'm a developer focused on accelerating Bitcoin adoption. I build tools and resources that help people understand, use, and advocate for Bitcoin. Constantly refining my AI workflow to bring my ideas to reality. What used to take me 2 weeks alone now takes me and my agents 1 day.
 
 ## Open Source Projects
 
