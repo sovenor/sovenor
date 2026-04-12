@@ -16,7 +16,7 @@
 🤘 **[bitcoin.rocks](https://github.com/sovenor/bitcoin-rocks)** - The [first link](https://bitcoin.rocks) you share with someone who is new to Bitcoin. Our volunteers have mailed out more than 55,000 free [Bitcoin stickers](https://bitcoin.rocks/stickers) to help Bitcoiners orange pill strangers in public.
 
 💰
- **[Vote for Better Money](https://github.com/sovenor/vote-for-bettermoney)** - An [educational website](https://voteforbetter.money) to help Americans embrace Bitcoin.
+ **[Vote for Better Money](https://github.com/sovenor/vote-for-better-money)** - An [educational website](https://voteforbetter.money) to help Americans embrace Bitcoin.
 <br>
 <br>
 ## Closed Source Projects
