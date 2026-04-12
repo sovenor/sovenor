@@ -14,16 +14,16 @@
 
 ## Open Source Projects
 
-🤘 [bitcoin.rocks](https://github.com/sovenor/bitcoin-rocks) - The [first link](https://bitcoin.rocks) you share with someone who is new to Bitcoin. Our volunteers have mailed out more than 55,000 free [Bitcoin stickers](https://bitcoin.rocks/stickers) to help Bitcoiners orange pill strangers in public.
+🤘 **[bitcoin.rocks](https://github.com/sovenor/bitcoin-rocks)** - The [first link](https://bitcoin.rocks) you share with someone who is new to Bitcoin. Our volunteers have mailed out more than 55,000 free [Bitcoin stickers](https://bitcoin.rocks/stickers) to help Bitcoiners orange pill strangers in public.
 
 💰
- [Vote for Better Money](https://github.com/sovenor/vote-for-bettermoney) - An [educational website](https://voteforbetter.money) to help Americans embrace Bitcoin.
+ **[Vote for Better Money](https://github.com/sovenor/vote-for-bettermoney)** - An [educational website](https://voteforbetter.money) to help Americans embrace Bitcoin.
 
 ## Closed Source Projects
 
-📊 [Bitcoin Price Report](https://bitcoinpricereport.com) - Bitcoin priced in everything. View the [live dashboard](https://bitcoinpricereport.com) or get alerts like *"1 Bitcoin buys 6,422 more Bushels of Corn than last month"* [in Telegram](https://t.me/bitcoinpricereport) (totally free)
+📊 **[Bitcoin Price Report](https://bitcoinpricereport.com)** - Bitcoin priced in everything. View the [live dashboard](https://bitcoinpricereport.com) or get alerts like *"1 Bitcoin buys 6,422 more Bushels of Corn than last month"* [in Telegram](https://t.me/bitcoinpricereport) (totally free)
 
 ## Contact Me
 
-📬 You can reache me at [hi@bitcoin.rocks](mailto@hi@bitcoin.rocks)
+📬 You can reache me at **[hi@bitcoin.rocks](mailto@hi@bitcoin.rocks)**
 
