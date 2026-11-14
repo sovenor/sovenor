@@ -19,11 +19,6 @@
  **[Vote for Better Money](https://github.com/sovenor/vote-for-better-money)** - An [educational website](https://voteforbetter.money) to help Americans embrace Bitcoin. Put a [flyer](https://voteforbetter.money/flyers) in public to help.
 <br>
 <br>
-## Closed Source Projects
-
-📊 **[Bitcoin Price Report](https://bitcoinpricereport.com)** - Bitcoin priced in everything. View the [live dashboard](https://bitcoinpricereport.com) or get alerts like *"1 Bitcoin buys 6,422 more Bushels of Corn than last month"* [in Telegram](https://t.me/bitcoinpricereport) (totally free)
-<br>
-<br>
 ## Contact Me
 
 📬 You can reache me at **[hi@bitcoin.rocks](mailto:hi@bitcoin.rocks)**
